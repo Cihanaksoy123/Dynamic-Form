@@ -29,7 +29,7 @@ class login extends React.Component {
         <Content style={{padding: 10}}>
           <Text
             style={{fontSize: 40, textAlign: 'center', paddingVertical: 50}}>
-             LOGİN
+             LOGİN SCREEN
           </Text>
           <Form>
             <Item style={{marginBottom: 20}} rounded>
