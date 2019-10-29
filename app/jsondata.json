@@ -1,0 +1,259 @@
+
+    [
+      {
+        "label": "username",
+        "allowMultipleMasks": false,
+        "showWordCount": false,
+        "showCharCount": false,
+        "tableView": true,
+        "alwaysEnabled": false,
+        "type": "textfield",
+        "input": true,
+        "key": "52792b327c0143739de53036a0e9abe3",
+        "defaultValue": "",
+        "validate": {
+          "customMessage": "",
+          "json": ""
+        },
+        "conditional": {
+          "show": "",
+          "when": "",
+          "json": ""
+        },
+        "inputFormat": "plain",
+        "encrypted": false,
+        "properties": {},
+        "customConditional": "",
+        "logic": [],
+        "widget": {
+          "type": ""
+        },
+        "reorder": false,
+        "tags": []
+      },
+      {
+        "label": "firstname",
+        "allowMultipleMasks": false,
+        "showWordCount": false,
+        "showCharCount": false,
+        "tableView": true,
+        "alwaysEnabled": false,
+        "type": "textfield",
+        "input": true,
+        "key": "4409f0328439400aaf9156f43fcfd114",
+        "defaultValue": "",
+        "validate": {
+          "customMessage": "",
+          "json": ""
+        },
+        "conditional": {
+          "show": "",
+          "when": "",
+          "json": ""
+        },
+        "inputFormat": "plain",
+        "encrypted": false,
+        "properties": {},
+        "customConditional": "",
+        "logic": [],
+        "widget": {
+          "type": ""
+        },
+        "reorder": false,
+        "tags": []
+      },
+      {
+        "label": "lastname",
+        "allowMultipleMasks": false,
+        "showWordCount": false,
+        "showCharCount": false,
+        "tableView": true,
+        "alwaysEnabled": false,
+        "type": "textfield",
+        "input": true,
+        "key": "69096d9168c547caa6ba86430cb8904f",
+        "defaultValue": "",
+        "validate": {
+          "customMessage": "",
+          "json": ""
+        },
+        "conditional": {
+          "show": "",
+          "when": "",
+          "json": ""
+        },
+        "inputFormat": "plain",
+        "encrypted": false,
+        "properties": {},
+        "customConditional": "",
+        "logic": [],
+        "widget": {
+          "type": ""
+        },
+        "reorder": false
+      },
+      {
+        "label": "nationalid",
+        "allowMultipleMasks": false,
+        "showWordCount": false,
+        "showCharCount": false,
+        "tableView": true,
+        "alwaysEnabled": false,
+        "type": "textfield",
+        "input": true,
+        "key": "42457e3668c547caa6ba86430dc0794a",
+        "defaultValue": "",
+        "validate": {
+          "customMessage": "",
+          "json": ""
+        },
+        "conditional": {
+          "show": "",
+          "when": "",
+          "json": ""
+        },
+        "inputFormat": "plain",
+        "encrypted": false,
+        "properties": {},
+        "customConditional": "",
+        "logic": [],
+        "widget": {
+          "type": ""
+        },
+        "reorder": false
+      },
+      {
+        "label": "Birthdate",
+        "mask": false,
+        "tableView": true,
+        "alwaysEnabled": false,
+        "type": "datetime",
+        "input": true,
+        "key": "80468c9168c547caa6ba86430dc8913b",
+        "suffix": true,
+        "defaultValue": "",
+        "widget": {
+          "type": "calendar",
+          "displayInTimezone": "viewer",
+          "language": "en",
+          "useLocaleSettings": false,
+          "allowInput": true,
+          "mode": "single",
+          "enableTime": true,
+          "noCalendar": false,
+          "format": "yyyy-MM-dd",
+          "defaultDate": "",
+          "hourIncrement": 1,
+          "minuteIncrement": 1,
+          "time_24hr": false,
+          "minDate": "",
+          "maxDate": ""
+        },
+        "validate": {
+          "customMessage": "",
+          "json": ""
+        },
+        "conditional": {
+          "show": "",
+          "when": "",
+          "json": ""
+        },
+        "datePicker": {
+          "minDate": "",
+          "maxDate": ""
+        },
+        "reorder": false,
+        "encrypted": false,
+        "properties": {},
+        "customConditional": "",
+        "logic": []
+      },
+      {
+        "label": "email",
+        "tableView": true,
+        "alwaysEnabled": false,
+        "type": "email",
+        "input": true,
+        "key": "80468c9168c547caa6ba86430dc8943c",
+        "defaultValue": "",
+        "validate": {
+          "customMessage": "",
+          "json": ""
+        },
+        "conditional": {
+          "show": "",
+          "when": "",
+          "json": ""
+        },
+        "reorder": false,
+        "encrypted": false,
+        "properties": {},
+        "customConditional": "",
+        "logic": []
+      },
+      {
+        "label": "password",
+        "showWordCount": false,
+        "showCharCount": false,
+        "tableView": true,
+        "alwaysEnabled": false,
+        "type": "password",
+        "input": true,
+        "key": "78531e9168c547caa6ba86430dc7826f",
+        "defaultValue": "",
+        "validate": {
+          "customMessage": "",
+          "json": ""
+        },
+        "conditional": {
+          "show": "",
+          "when": "",
+          "json": ""
+        },
+        "reorder": false,
+        "inputFormat": "plain",
+        "encrypted": false,
+        "properties": {},
+        "customConditional": "",
+        "logic": []
+      },
+      {
+        "label": "picture",
+        "mask": false,
+        "tableView": true,
+        "alwaysEnabled": false,
+        "type": "file",
+        "input": true,
+        "key": "70214c9168c547caa6ba86430dc6793b",
+        "defaultValue": [],
+        "validate": {
+          "customMessage": "",
+          "json": ""
+        },
+        "conditional": {
+          "show": "",
+          "when": "",
+          "json": ""
+        },
+        "image": true,
+        "fileMinSize": "10KB",
+        "fileMaxSize": "100KB",
+        "storage": "base64",
+        "dir": "",
+        "webcam": true,
+        "fileTypes": [
+          {
+            "label": "image",
+            "value": "*"
+          }
+        ],
+        "encrypted": false,
+        "properties": {},
+        "customConditional": "",
+        "logic": [],
+        "reorder": false,
+        "imageSize": "",
+        "webcamSize": "",
+        "url": "",
+        "options": ""
+      }]
